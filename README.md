@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hello, I'm Jakub Szpil 👋 
+ 
+- 🔭 I’m currently working on my new portfolio website
+- 🌱 I’m currently learning Redux
+- 👯 I’m looking to collaborate on Twitter
+- 🤔 I’m looking for help with Redux documentation
+- 💬 Ask me about Vue or any related stuff
+- 📫 How to reach me: [Instagram - @szpilvv_](https://www.instagram.com/szpilvv_)
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I like ketchup but I hate tomatos
 
-<!--
-**jakubszpil/jakubszpil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=jakubszpil&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
