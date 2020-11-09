@@ -9,6 +9,6 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like ketchup but I hate tomatos
 
-[My portfolio site](http://jakubszpil.github.io/)
+[My portfolio site](https://www.jakubszpil.pl/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=jakubszpil&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
