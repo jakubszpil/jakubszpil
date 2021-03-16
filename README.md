@@ -1,6 +1,6 @@
 ## Hello, I'm Jakub Szpil 👋 
  
-- 🔭 I’m currently working on a project for the Motorola Science Cup competition
+- 🔭 I’m currently working on a [project](https://github.com/jakubszpil/moto-control-panel) for the Motorola Science Cup competition
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Twitter
 - 🤔 I’m looking for help with Redux documentation
