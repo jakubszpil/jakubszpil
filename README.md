@@ -1,7 +1,7 @@
 ## Hello, I'm Jakub Szpil 👋 
  
-- 🔭 I’m currently working on my new portfolio website
-- 🌱 I’m currently learning Redux
+- 🔭 I’m currently working on a project for the Motorola Science Cup competition
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Twitter
 - 🤔 I’m looking for help with Redux documentation
 - 💬 Ask me about Vue or any related stuff
