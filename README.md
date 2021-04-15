@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Twitter
 - 🤔 I’m looking for help with Redux documentation
-- 💬 Ask me about Vue or any related stuff
+- 💬 Ask me about NextJS or any related stuff
 - 📫 How to reach me: [Instagram - @szpilvv_](https://www.instagram.com/szpilvv_)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like ketchup but I hate tomatos
