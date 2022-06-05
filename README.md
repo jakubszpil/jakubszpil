@@ -1,10 +1,10 @@
 ## Hello, I'm Jakub Szpil 👋 
  
-- 🔭 I’m currently working on [portfolio site](https://github.com/jakubszpil/jakubszpil.github.io)
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on [my portfolio site](https://github.com/jakubszpil/jakubszpil.github.io)
+- 🌱 I’m currently expanding my knowledge of typescript
 - 👯 I’m looking to collaborate on Twitter
-- 🤔 I’m looking for help with SEO in React
-- 💬 Ask me about JavaScript or any related stuff
+- 🤔 I’m looking for help with micro frontends stuff
+- 💬 Ask me about JavaScript/TypeScript or any related stuff
 - 📫 How to reach me: [Instagram - @szpilvv_](https://www.instagram.com/szpilvv_)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like ketchup but I hate tomatos
