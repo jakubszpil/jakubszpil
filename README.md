@@ -1,7 +1,7 @@
 ## Hello, I'm Jakub Szpil 👋 
  
 - 🔭 I’m currently working on [my portfolio site](https://github.com/jakubszpil/jakubszpil.github.io)
-- 🌱 I’m currently expanding my knowledge of typescript
+- 🌱 I’m currently expanding my knowledge of TypeScript
 - 👯 I’m looking to collaborate on Twitter
 - 🤔 I’m looking for help with micro frontends stuff
 - 💬 Ask me about JavaScript/TypeScript or any related stuff
