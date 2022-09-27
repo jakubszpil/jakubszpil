@@ -7,7 +7,6 @@
 - 💬 Ask me about JavaScript/TypeScript or any related stuff
 - 📫 How to reach me: [Instagram - @szpilvv_](https://www.instagram.com/szpilvv_)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I like ketchup but I hate tomatos
 
 [My portfolio site](https://jakubszpil.github.io/)
 
